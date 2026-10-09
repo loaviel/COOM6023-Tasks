@@ -14,6 +14,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5df3ac5a-ede7-4818-858c-72ce94f82cff",
+        "Display": 0,
+        "X": 378,
+        "Y": 773,
+        "Width": 1374,
+        "Height": 678,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,7 +44,7 @@
               "RelativeDocumentMoniker": "Session2\\Session2.cpp",
               "ToolTip": "G:\\COOM6023-Tasks\\Session2\\Session2\\Session2.cpp",
               "RelativeToolTip": "Session2\\Session2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-08T10:39:13.665Z",
               "EditorCaption": ""

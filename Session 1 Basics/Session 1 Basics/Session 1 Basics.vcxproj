@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="Session 1 Basics.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyVars.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
