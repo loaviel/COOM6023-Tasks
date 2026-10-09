@@ -1,0 +1,4 @@
+﻿  Session2.cpp
+C:\Users\rhian\source\repos\Session2\Session2\Session2.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rhian\source\repos\Session2\Session2\Session2.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Session2.vcxproj -> C:\Users\rhian\source\repos\Session2\x64\Debug\Session2.exe
